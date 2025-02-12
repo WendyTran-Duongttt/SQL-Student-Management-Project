@@ -11,9 +11,9 @@
 
 
 ### Project Description:
-- Create a Database, tables, and integrity constraints (use DDL - Data Definition Language, DML - Data Manipulation Language & DQL - Data Query Language) 
-- Insert data into tables
-- Extract data based on conditions
+- Create a Database, tables, and integrity constraints (DDL - Data Definition Language) 
+- Insert data into tables (DML - Data Manipulation Language)
+- Extract data based on conditions (DQL - Data Query Language)
 - Join tables
 - Create Views, CTEs, Temp tables, and Stored Procedures
 
