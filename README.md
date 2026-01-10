@@ -19,8 +19,3 @@
 
 ![image](https://github.com/user-attachments/assets/24f12f8a-59ec-44a9-abe5-0cf6b76105e1)
 
-### 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-WendyTran-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thuy-duong-tran-63b9a7242)
-[![My CV](https://img.shields.io/badge/CV-ThuyDuong-blue?style=for-the-badge&logo=twitter)]([https://twitter.com/your-handle](https://drive.google.com/file/d/1hp-QL5d1P_LQQCWcePC4QTbtT5pC1mEV/view?usp=sharing))
-- LinkedIn: www.linkedin.com/in/thuy-duong-tran-63b9a7242
-- My CV: https://drive.google.com/file/d/1hp-QL5d1P_LQQCWcePC4QTbtT5pC1mEV/view?usp=sharing
